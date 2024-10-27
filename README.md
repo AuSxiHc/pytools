@@ -1,9 +1,12 @@
-# Vim + Emacs, in Python.
-A python implementation of the famous old text based code editors.
-But with more features?
+# A toolbox of Python things you may need?
+All my code snippets, and some more.
 
 **Features:**
 1. Inbuilt media player
-2. Insane Python specific help
+2. Python inside Python
+3. A calculator
+4. SQL Database Reader
+5. Emacs?
+   and some more :(
 
 *(Soon)*
