@@ -10,3 +10,9 @@ All my code snippets, and some more.
    and some more :(
 
 *(Soon)*
+
+And of course, there shall be some requirements:
+**External Modules:**
+1. Python VLC `pip install python-vlc`
+
+This was coded in pycharm so replication may what
